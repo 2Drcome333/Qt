@@ -1,2 +1,2 @@
 # Qt
-some codes based in Qt
+some codes based on Qt
